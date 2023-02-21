@@ -11,8 +11,12 @@ This application targets Python version [3.11.2](https://www.python.org/download
 Follow these steps to run the sample app:
 
 1. Clone repository locally.
-2. Open a terminal and TODO
-3. TODO
+2. Open a terminal and navigate to the source folder.
+3. Install the pyjwt pip package by running the ``pip3 install pyjwt`` command.
+4. Install the requests pip package by running the ``pip3 install requests`` command.
+5. Install the uuid pip package by running the ``pip3 install uuid`` command.
+6. Open app.py in a text editor and resolve all TODO items listed in comments and save changes.
+7. Run ``python3 app.py`` in the terminal from source folder.
 
 ## More About DoorDash Credentials
 
@@ -31,4 +35,3 @@ Follow these steps to run the sample app:
 ## Community
 
 Please join the [DoorDash Developer Discord community](https://discord.com/channels/951208871828013066/951208872478113875) to provide feedback and ask questions about developing with the DoorDash API.
-
