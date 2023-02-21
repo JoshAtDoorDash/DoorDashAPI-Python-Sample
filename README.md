@@ -15,7 +15,7 @@ Follow these steps to run the sample app:
 3. Install the pyjwt pip package by running the ``pip3 install pyjwt`` command.
 4. Install the requests pip package by running the ``pip3 install requests`` command.
 5. Install the uuid pip package by running the ``pip3 install uuid`` command.
-6. Open app.py in a text editor and resolve all TODO items listed in comments and save changes.
+6. Open app.py in a text editor and resolve all TODO items listed in comments, save changes.
 7. Run ``python3 app.py`` in the terminal from source folder.
 
 ## More About DoorDash Credentials
